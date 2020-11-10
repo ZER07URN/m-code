@@ -14,7 +14,7 @@
 </ul>
 
 
-Panel login: https://localhost/namaproject/backend/login
+<p>Panel login: https://localhost/namaproject/backend/login</p>
 Akses super duper admin.... :)
-email : mpampam@dev.com
+email : mpampam@dev.com</br>
 password : 123456
