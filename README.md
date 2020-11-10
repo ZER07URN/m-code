@@ -12,3 +12,9 @@
 <li>Serverside datatable</li>
 <li>Bulilt in PHP V.7.4</li>
 </ul>
+
+
+Panel login: https://localhost/namaproject/backend/login
+Akses super duper admin.... :)
+email : mpampam@dev.com
+password : 123456
