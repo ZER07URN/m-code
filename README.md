@@ -15,6 +15,6 @@
 
 
 <p>Panel login: https://localhost/namaproject/backend/login</p>
-Akses super duper admin.... :)
+Akses super duper admin.... :)</br>
 email : mpampam@dev.com</br>
 password : 123456
